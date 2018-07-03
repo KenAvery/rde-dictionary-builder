@@ -23,6 +23,7 @@ To upgrade already installed packages, use the command:
                                           --entity ENTITY
                                           [--oemSchemaFilenames [OEMSCHEMAFILENAMES [OEMSCHEMAFILENAMES ...]]]
                                           [--oemEntities [OEMENTITIES [OEMENTITIES ...]]]
+                                          [--profile [PROFILE]]
                                           [--outputFile OUTPUTFILE]
 
 ## Example
